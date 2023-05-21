@@ -1,0 +1,17 @@
+/* tambien agregamos style por id(Parrafo2)-->
+al final agregamos color por CLASE(colorPrincipal) ESTE ES EL MAS USADO*/
+    p{
+        font-weight: bold;
+    }
+    #Parrafo2{ 
+        color: red;
+    }
+    .colorPrincipal{
+        color: yellow;
+    }
+    #Cuadrado{
+        background-color: red;
+        color: black;
+        width: 200px;
+        height: 200px;
+    }
